@@ -1,0 +1,10 @@
+C:\Users\X\Desktop\Asansör Projesi\Asansor\bin\Debug\Asansor.exe.config
+C:\Users\X\Desktop\Asansör Projesi\Asansor\bin\Debug\Asansor.exe
+C:\Users\X\Desktop\Asansör Projesi\Asansor\bin\Debug\Asansor.pdb
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.csprojAssemblyReference.cache
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.Properties.Resources.resources
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.csproj.GenerateResource.cache
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.csproj.CoreCompileInputs.cache
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.exe
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.pdb
+C:\Users\X\Desktop\Asansör Projesi\Asansor\obj\Debug\Asansor.AsansorUygulamasi.resources
